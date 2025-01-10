@@ -1,4 +1,4 @@
-const countDownDate = new Date("Jan 20, 2025 07:30:00").getTime();
+const countDownDate = new Date("Jan 20, 2025 08:30:00").getTime();
 
 function updateTimer() {
     const now = new Date().getTime();
